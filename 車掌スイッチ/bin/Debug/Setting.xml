@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<data>
+		<CloseSound>D:\Program Files\switch\door\10-442_Close.wav</CloseSound>
+		<OpenSound>D:\Program Files\switch\door\10-442_Open.wav</OpenSound>
+		<BodyImage>D:\Program Files\switch\body.png</BodyImage>
+		<LeftDoorImage>D:\Program Files\switch\doorL.png</LeftDoorImage>
+		<RightDoorImage>D:\Program Files\switch\doorR.png</RightDoorImage>
+		<InteriorImage>D:\Program Files\switch\interior.png</InteriorImage>
+		<Width>120</Width>
+		<CloseSpeed>15</CloseSpeed>
+		<OpenSpeed>15</OpenSpeed>
+		<CloseSpeed2>90</CloseSpeed2>
+		<OpenSpeed2>100</OpenSpeed2>
+		<ClosePosition>30</ClosePosition>
+		<OpenPosition>30</OpenPosition>
+		<CloseRatio>50</CloseRatio>
+		<OpenRatio>50</OpenRatio>
+	</data>
+</DocumentElement>

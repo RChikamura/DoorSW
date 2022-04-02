@@ -1,0 +1,24 @@
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\bin\Debug\車掌スイッチ.exe.config
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\bin\Debug\車掌スイッチ.exe
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\bin\Debug\車掌スイッチ.pdb
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.csproj.AssemblyReference.cache
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Form1.resources
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Properties.Resources.resources
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.csproj.GenerateResource.cache
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.csproj.CoreCompileInputs.cache
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.exe
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.pdb
+D:\Users\reoka\source\repos\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Form2.resources
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\bin\Debug\車掌スイッチ.exe.config
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\bin\Debug\車掌スイッチ.exe
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\bin\Debug\車掌スイッチ.pdb
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.csproj.AssemblyReference.cache
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Form1.resources
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Form2.resources
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Form3.resources
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.Properties.Resources.resources
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.csproj.GenerateResource.cache
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.csproj.CoreCompileInputs.cache
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.exe
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\obj\Debug\車掌スイッチ.pdb
+D:\Program Files\switch\車掌スイッチ\車掌スイッチ\bin\Debug\Setting.xml
